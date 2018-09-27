@@ -1,0 +1,5 @@
+c:\users\e0427639\documents\visual studio 2015\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\e0427639\documents\visual studio 2015\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\e0427639\documents\visual studio 2015\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\e0427639\documents\visual studio 2015\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\e0427639\documents\visual studio 2015\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
