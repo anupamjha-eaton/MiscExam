@@ -1,3 +1,3 @@
 # MiscExam
 
-This is code for practice purpose.
+This code is for practice purpose.
