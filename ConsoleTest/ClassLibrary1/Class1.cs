@@ -8,5 +8,6 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        public void show1(){Console.Writeline("I will show you whos the boss")};
     }
 }
